@@ -17,8 +17,8 @@ I recommend to look at the [documentation](https://v3.nuxtjs.org).
 ## Setup
 
 Make sure to install the dependencies.
-Don't use npm!
-Use the latest version of NodeJS!
+Don't use **npm**!
+And use the latest version of NodeJS!
 
 ```bash
 yarn install
